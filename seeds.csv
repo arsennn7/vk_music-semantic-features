@@ -1,0 +1,110 @@
+artist,title,seed_genre,lang,reserve
+The Weeknd,Blinding Lights,pop,en,0
+Dua Lipa,Levitating,pop,en,0
+Billie Eilish,bad guy,pop,en,0
+Ed Sheeran,Shape of You,pop,en,0
+Taylor Swift,Anti-Hero,pop,en,0
+Harry Styles,As It Was,pop,en,0
+Sia,Chandelier,pop,en,0
+Lady Gaga,Bad Romance,pop,en,0
+Zivert,Life,pop,ru,0
+Монеточка,Каждый раз,pop,ru,0
+Queen,Bohemian Rhapsody,rock,en,0
+Nirvana,Smells Like Teen Spirit,rock,en,0
+The Beatles,Come Together,rock,en,0
+Arctic Monkeys,Do I Wanna Know?,rock,en,0
+Red Hot Chili Peppers,Californication,rock,en,0
+The Killers,Mr. Brightside,rock,en,0
+Imagine Dragons,Believer,rock,en,0
+Кино,Группа крови,rock,ru,0
+Сплин,Выхода нет,rock,ru,0
+Би-2,Полковнику никто не пишет,rock,ru,0
+Kendrick Lamar,HUMBLE.,hiphop,en,0
+Eminem,Lose Yourself,hiphop,en,0
+Travis Scott,SICKO MODE,hiphop,en,0
+Drake,God's Plan,hiphop,en,0
+Kanye West,Stronger,hiphop,en,0
+50 Cent,In Da Club,hiphop,en,0
+Dr. Dre,Still D.R.E.,hiphop,en,0
+Баста,Сансара,hiphop,ru,0
+Miyagi & Andy Panda,Kosandra,hiphop,ru,0
+Скриптонит,Положение,hiphop,ru,0
+Daft Punk,One More Time,electronic,en,0
+Avicii,Levels,electronic,instr,0
+Calvin Harris,Summer,electronic,en,0
+deadmau5,Strobe,electronic,instr,0
+Swedish House Mafia,Don't You Worry Child,electronic,en,0
+The Chemical Brothers,Galvanize,electronic,en,0
+Skrillex,Bangarang,electronic,en,0
+Justice,D.A.N.C.E.,electronic,en,0
+Kavinsky,Nightcall,electronic,en,0
+Little Big,Skibidi,electronic,en,0
+Miles Davis,So What,jazz,instr,0
+The Dave Brubeck Quartet,Take Five,jazz,instr,0
+John Coltrane,Giant Steps,jazz,instr,0
+Louis Armstrong,What a Wonderful World,jazz,en,0
+Ella Fitzgerald,Summertime,jazz,en,0
+Frank Sinatra,Fly Me to the Moon,jazz,en,0
+Nina Simone,Feeling Good,jazz,en,0
+Chet Baker,My Funny Valentine,jazz,en,0
+Herbie Hancock,Cantaloupe Island,jazz,instr,0
+Norah Jones,Don't Know Why,jazz,en,0
+Ludwig van Beethoven,Für Elise,classical,instr,0
+Claude Debussy,Clair de Lune,classical,instr,0
+Antonio Vivaldi,Spring,classical,instr,0
+Wolfgang Amadeus Mozart,Eine kleine Nachtmusik,classical,instr,0
+Johann Sebastian Bach,Cello Suite No. 1 Prelude,classical,instr,0
+Pyotr Ilyich Tchaikovsky,Swan Lake,classical,instr,0
+Sergei Rachmaninoff,Piano Concerto No. 2,classical,instr,0
+Erik Satie,Gymnopédie No. 1,classical,instr,0
+Edvard Grieg,In the Hall of the Mountain King,classical,instr,0
+Dmitri Shostakovich,Waltz No. 2,classical,instr,0
+Metallica,Enter Sandman,metal,en,0
+Iron Maiden,The Trooper,metal,en,0
+Slipknot,Duality,metal,en,0
+Megadeth,Symphony Of Destruction,metal,en,0
+Rammstein,Du hast,metal,de,0
+Linkin Park,Numb,metal,en,0
+Black Sabbath,Paranoid,metal,en,0
+Sabaton,Primo Victoria,metal,en,0
+Korn,Freak On a Leash,metal,en,0
+Ария,Беспечный ангел,metal,ru,0
+Brian Eno,An Ending (Ascent),ambient,instr,0
+Aphex Twin,Avril 14th,ambient,instr,0
+Tycho,Awake,ambient,instr,0
+Bonobo,Kerala,ambient,instr,0
+Nujabes,Aruarian Dance,ambient,instr,0
+Boards of Canada,Roygbiv,ambient,instr,0
+Ólafur Arnalds,Saman,ambient,instr,0
+Ludovico Einaudi,Nuvole Bianche,ambient,instr,0
+Moby,Porcelain,ambient,en,0
+Max Richter,On the Nature of Daylight,ambient,instr,0
+Michael Jackson,Billie Jean,pop,en,1
+Bruno Mars,Locked Out of Heaven,pop,en,1
+Rihanna,Umbrella,pop,en,1
+AC/DC,Back In Black,rock,en,1
+Muse,Uprising,rock,en,1
+Oasis,Wonderwall,rock,en,1
+Snoop Dogg,Drop It Like It's Hot,hiphop,en,1
+Nas,N.Y. State of Mind,hiphop,en,1
+The Notorious B.I.G.,Juicy,hiphop,en,1
+Oxxxymiron,Где нас нет,hiphop,ru,1
+The Prodigy,Firestarter,electronic,en,1
+Zedd,Clarity,electronic,en,1
+Moderat,A New Error,electronic,instr,1
+Duke Ellington,Take the A Train,jazz,instr,1
+Bill Evans,Waltz for Debby,jazz,instr,1
+Billie Holiday,Strange Fruit,jazz,en,1
+Thelonious Monk,Round Midnight,jazz,instr,1
+Johann Pachelbel,Canon in D,classical,instr,1
+Frédéric Chopin,Nocturne Op. 9 No. 2,classical,instr,1
+Gustav Holst,Mars,classical,instr,1
+Pantera,Walk,metal,en,1
+Judas Priest,Breaking the Law,metal,en,1
+Avenged Sevenfold,Nightmare,metal,en,1
+Disturbed,Down With the Sickness,metal,en,1
+Motörhead,Ace of Spades,metal,en,1
+Ария,Потерянный рай,metal,ru,1
+Sigur Rós,Hoppípolla,ambient,instr,1
+Jon Hopkins,Open Eye Signal,ambient,instr,1
+Explosions in the Sky,Your Hand in Mine,ambient,instr,1
