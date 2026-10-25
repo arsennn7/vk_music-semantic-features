@@ -1,0 +1,4 @@
+data/audio/
+data/clap_audio.npy
+.ipynb_checkpoints/
+__pycache__/
